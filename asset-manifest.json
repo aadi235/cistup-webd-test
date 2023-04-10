@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cistup-webd-test/static/css/main.a288ed12.css",
+    "main.js": "/cistup-webd-test/static/js/main.c3007c68.js",
+    "static/js/787.fb823193.chunk.js": "/cistup-webd-test/static/js/787.fb823193.chunk.js",
+    "index.html": "/cistup-webd-test/index.html",
+    "main.a288ed12.css.map": "/cistup-webd-test/static/css/main.a288ed12.css.map",
+    "main.c3007c68.js.map": "/cistup-webd-test/static/js/main.c3007c68.js.map",
+    "787.fb823193.chunk.js.map": "/cistup-webd-test/static/js/787.fb823193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a288ed12.css",
+    "static/js/main.c3007c68.js"
+  ]
+}
