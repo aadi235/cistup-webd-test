@@ -1,0 +1,47 @@
+.home-title{
+    background-color: black;
+    color: white;
+    padding: 1%;
+    margin-bottom: 20px;
+}
+
+.submit-button {
+    text-align: center;
+    background: black;
+    padding: 20px 70px;
+    color: white;
+    border: none;
+    margin: 30px;
+    font-weight: 700;
+    font-size: 1.2rem;
+  }
+  
+.submit-button:hover {
+  background: #bec6cc;
+  text-decoration: none;
+}
+
+.home-mainContent{
+    padding: 10px;
+    margin: 10px 10% 20px;
+    box-shadow: 3px 5px 5px grey, -3px -5px 5px grey;
+    border-radius: 30px;
+}
+
+.form-questions-section{
+    text-align: left;
+}
+
+.form-question-block{
+    margin: 10px 10px 20px 20px;
+}
+
+.form-question{
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+
+.form-error{
+    color: red;
+}
+

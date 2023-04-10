@@ -1,0 +1,51 @@
+.row-items{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding: 10px;
+}
+.row{
+    margin: 20px 10px;
+    border-radius: 3px;
+    box-shadow:  -1px -3px 3px grey, 1px 3px 3px grey;
+    background-color: #E9E8E8;
+}
+.modeChoiceTable-item{
+    margin: 10px;
+    border-radius: 3px;
+    box-shadow:  -1px -3px 3px grey, 1px 3px 3px grey;
+    background-color: white;
+}
+.row-title{
+    font-weight: 700;
+}
+.mode_1{
+    background-color: #B2A4FF;
+}
+.mode_2{
+    background-color: #FFB4B4;
+}
+.mode_3{
+    background-color: #FFDEB4;
+}
+.mode_4{
+    background-color: #FDF7C3;
+}
+.mode_5{
+    background-color: #ECF2FF;
+}
+.mode_6{
+    background-color: #FFBFA9;
+}
+.mode_7{
+    background-color: #FFEBB4;
+}
+.mode_8{
+    background-color: #FBFFB1;
+}
+.mode_9{
+    background-color: #EDE9D5;
+}
+
+.highlight{
+    background-color: #5D9C59;
+}
